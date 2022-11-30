@@ -1,0 +1,9 @@
+# Ambiente
+venv/
+
+# Python
+__pycache__/
+
+#Jupyter Notebook
+*.ipynb_checkpoints
+*resposta.ipynb
